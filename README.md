@@ -1,2 +1,2 @@
 # chatbot
-Demonstração de um chatbox utilizando o framework TensorFlow
+Demonstração de um chatbot utilizando o framework TensorFlow
